@@ -11,3 +11,5 @@
   + Duration, date, desc, tags
   + Author
 - Tech used: React, Tailwind, DaisyUI, Youtube Data API..
+
+*Demo page:* https://legendavrs.github.io/HoloStreamRandomizer/
