@@ -1,5 +1,5 @@
 const RandomizeButton = () => {
-  return <button className="d-btn d-btn-outline">Randomize</button>;
+  return <button className="d-btn d-btn-outline w-fit">Randomize</button>;
 };
 
 export default RandomizeButton;
