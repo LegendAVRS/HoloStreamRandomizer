@@ -2,7 +2,7 @@ import InfoContainer from "./components/InfoContainer";
 import OptionContainer from "./components/OptionContainer";
 import RandomizeButton from "./components/RandomizeButton";
 import StreamContainer from "./components/StreamContainer";
-
+// nothing to see here
 function App() {
   return (
     <div className="flex justify-center items-center gap-4 h-screen flex-col px-32">
