@@ -1,27 +1,30 @@
 interface InfoContainerProps {
-  title: string;
-  duration: string;
-  desc: string;
-  author: string;
+  videoTitle: string;
+  // duration: string;
+  videoDesc: string;
+  channelName: string;
 }
 
 const InfoContainer = ({
-  title,
-  duration,
-  desc,
-  author,
+  videoTitle,
+  videoDesc,
+  channelName,
 }: InfoContainerProps) => {
+  const formatedTitle = { __html: videoTitle };
+  const formatedDesc = { __html: videoDesc };
+  const formatedChannelName = { __html: channelName };
+
   return (
     <div className="d-card w-[40%]">
       <div className="d-card-body">
-        <h2 className=" d-card-title">{title}</h2>
-        <h3 className=" font-bold">Channel: </h3>
-        <span>{author}</span>
-        <h3 className=" font-bold">Duration: </h3>
-        <span>{duration}</span>
-
-        <h3 className=" font-bold">Descrition: </h3>
-        <span>{desc}</span>
+        <h2
+          className=" d-card-title"
+          dangerouslySetInnerHTML={formatedTitle}
+        ></h2>
+        <h3 className="font-bold ">Channel: </h3>
+        <span dangerouslySetInnerHTML={formatedChannelName}></span>
+        <h3 className="font-bold ">Descrition: </h3>
+        <span dangerouslySetInnerHTML={formatedDesc}></span>
       </div>
     </div>
   );

@@ -1,0 +1,365 @@
+{
+  "JP Gen 0": {
+    "Tokino Sora": {
+      "name": "SoraCh. ときのそらチャンネル",
+      "id": "UCp6993wxpyDPHUpavwDFqgg"
+    },
+    "Roboco": {
+      "name": "Roboco Ch. - ロボ子",
+      "id": "UCDqI2jOz0weumE8s7paEk6g"
+    },
+    "Sakura Miko": {
+      "name": "Miko Ch. さくらみこ",
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA"
+    },
+    "Hoshimachi Suisei": {
+      "name": "Suisei Channel",
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A"
+    },
+    "AZKi": {
+      "name": "AZKi Channel",
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw"
+    }
+  },
+  "JP Gen 1": {
+    "Yozora Mel": {
+      "name": "Mel Channel 夜空メルチャンネル",
+      "id": "UCD8HOxPs4Xvsm8H0ZxXGiBw"
+    },
+    "Shirakami Fubuki": {
+      "name": "フブキCh。白上フブキ",
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg"
+    },
+    "Natsuiro Matsuri": {
+      "name": "Matsuri Channel 夏色まつり",
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg"
+    },
+    "Aki Rosenthal": {
+      "name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "id": "UCFTLzh12_nrtzqBPsTCqenA"
+    },
+    "Akai Haato": {
+      "name": "Akaihaato Ch. 赤井はあと",
+      "id": "UC1CfXB kRs3C-zaeTG3oGyg"
+    }
+  },
+  "JP Gen 2": {
+    "Minato Aqua": {
+      "name": "Aqua Ch. 湊あくあ",
+      "id": "UC1opHUrw8rvnsadT-iGp7Cg"
+    },
+    "Murasaki Shion": {
+      "name": "Shion Ch. 紫咲シオン",
+      "id": "UCXTpFs_3PqI41qX2d9tL2Rw"
+    },
+    "Nakiri Ayame": {
+      "name": "Nakiri Ayame Ch. 百鬼あやめ",
+      "id": "UC7fk0CB07ly8oSl0aqKkqFg"
+    },
+    "Yuzuki Choco": {
+      "name": "Choco Ch. 癒月ちょこ",
+      "id": "UC1suqwovbL1kzsoaZgFZLKg"
+    },
+    "Oozora Subaru": {
+      "name": "Subaru Ch. 大空スバル",
+      "id": "UCvzGlP9oQwU--Y0r9id_jnA"
+    }
+  },
+  "JP Gamers": {
+    "Shirakami Fubuki": {
+      "name": "フブキCh。白上フブキ",
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg"
+    },
+    "Ookami Mio": {
+      "name": "Mio Channel 大神ミオ",
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg"
+    },
+    "Nekomata Okayu": {
+      "name": "Okayu Ch. 猫又おかゆ",
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw"
+    },
+    "Inugami Korone": {
+      "name": "Korone Ch. 戌神ころね ",
+      "id": "UChAnqc_AY5_I3Px5dig3X1Q"
+    }
+  },
+  "JP Gen 3": {
+    "Usada Pekora": {
+      "name": "Pekora Ch. 兎田ぺこら",
+      "id": "UC1DCedRgGHBdm81E1llLhOQ"
+    },
+    "Shiranui Flare": {
+      "name": "Flare Ch. 不知火フレア",
+      "id": "UCvInZx9h3jC2JzsIzoOebWg"
+    },
+    "Shirogane Noel": {
+      "name": "Noel Ch. 白銀ノエル",
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ"
+    },
+    "Houshou Marine": {
+      "name": "Marine Ch. 宝鐘マリン ",
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg"
+    }
+  },
+  "JP Gen 4": {
+    "Amane Kanata": {
+      "name": "Kanata Ch. Kanata Amane",
+      "id": "UCZlDXzGoo7d44bwdNObFacg"
+    },
+    "Kiryu Coco": {
+      "name": "Coco Ch. 桐生ココ",
+      "id": "UCS9uQI-jC3DE0L4IpXyvr6w"
+    },
+    "Tsunomaki Watame": {
+      "name": "Watame Ch. 角巻わため",
+      "id": "UCqm3BQLlJfvkTsX hvm0UmA"
+    },
+    "Tokoyami Towa": {
+      "name": "Towa Ch. 常闇トワ",
+      "id": "UC1uv2Oq6kNxgATlCiez59hw"
+    },
+    "Himemori Luna": {
+      "name": "Luna Ch. 姫森ルーナ ",
+      "id": "UCa9Y57gfeY0Zro_noHRVrnw"
+    }
+  },
+  "JP Gen 5": {
+    "Yukihana Lamy": {
+      "name": "Lamy Ch. 雪花ラミィ",
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw"
+    },
+    "Momosuzu Nene": {
+      "name": "Nene Ch.桃鈴ねね",
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA"
+    },
+    "Shishiro Botan": {
+      "name": "Botan Ch.獅白ぼたん",
+      "id": "UCUKD-uaobj9jiqB-VXt71mA"
+    },
+    "Omaru Polka": {
+      "name": "Polka Ch. 尾丸ポルカ",
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA"
+    }
+  },
+  "Hololive HoloX": {
+    "La+ Darkness": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw"
+    },
+    "Takane Lui": {
+      "id": "UCs9_O1tRPMQTHQ-N_L6FU2g"
+    },
+    "Hakui Koyori": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw"
+    },
+    "Sakamata Chloe": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw"
+    },
+    "Kazama Iroha": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ"
+    }
+  },
+  "Hololive DEV_IS": {
+    "Hiodoshi Ao": {
+      "id": "UCMGfV7TVTmHhEErVJg1oHBQ"
+    },
+    "Otonose Kanade": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA"
+    },
+    "Ichijou Ririka": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng"
+    },
+    "Juufuutei Raden": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ"
+    },
+    "Todoroki Hajime": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw"
+    }
+  },
+  "ID Gen 1": {
+    "Ayunda Risu": {
+      "name": "Ayunda Risu Ch. hololive-ID",
+      "id": "UCOyYb1c43VlX9rc_lT6NKQw"
+    },
+    "Moona Hoshinova": {
+      "name": "Moona Hoshinova hololive-ID",
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg"
+    },
+    "Airani Iofifteen": {
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg"
+    }
+  },
+  "ID Gen 2": {
+    "Kureiji Ollie": {
+      "name": "Kureiji Ollie Ch. hololive-ID",
+      "id": "UCYz_5n-uDuChHtLo7My1HnQ"
+    },
+    "Anya Melfissa": {
+      "name": "Anya Melfissa Ch. hololive-ID",
+      "id": "UC727SQYUvx5pDDGQpTICNWg"
+    },
+    "Pavolia Reine": {
+      "name": "Pavolia Reine Ch. hololive-ID",
+      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q"
+    }
+  },
+  "ID Gen 3": {
+    "Kaela Kovalskia": {
+      "id": "UCZLZ8Jjx_RN2CXloOmgTHVg"
+    },
+    "Vestia Zeta": {
+      "id": "UCTvHWSfBZgtxE4sILOaurIQ"
+    },
+    "Kobo Kanaeru": {
+      "id": "UCjLEmnpCNeisMxy134KPwWw"
+    }
+  },
+  "Hololive Myth": {
+    "Mori Calliope": {
+      "name": "Mori Calliope Ch. hololive-EN",
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg"
+    },
+    "Takanashi Kiara": {
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww"
+    },
+    "Ninomae Ina'nis": {
+      "name": "Ninomae Ina'nis Ch. hololive-EN",
+      "id": "UCMwGHR0BTZuLsmjY_NT5Pwg"
+    },
+    "Gawr Gura": {
+      "name": "Gawr Gura Ch. hololive-EN",
+      "id": "UCoSrY_IQQVpmIRZ9Xf-y93g"
+    },
+    "Watson Amelia": {
+      "name": "Watson Amelia Ch. hololive-EN",
+      "id": "UCyl1z3jo3XHR1riLFKG5UAg"
+    }
+  },
+  "Hololive Promise": {
+    "Ouro Kronii": {
+      "name": "Mori Calliope Ch. hololive-EN",
+      "id": "UCmbs8T6MWqUHP1tIQvSgKrg"
+    },
+    "Ceres Fauna": {
+      "id": "UCO_aKKYxn4tvrqPjcTzZ6EQ"
+    },
+    "Nanashi Mumei": {
+      "id": "UC3n5uGu18FoCy23ggWWp8tA"
+    },
+    "Hakos Baelz": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ"
+    },
+    "Irys": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g"
+    }
+  },
+  "Hololive Advent": {
+    "Shiori Novella": {
+      "id": "UCgnfPPb9JI3e9A4cXHnWbyg"
+    },
+    "Nerissa Ravencroft": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg"
+    },
+    "Fuwamoco": {
+      "id": "UCt9H_RpQzhxzlyBxFqrdHqA"
+    },
+    "Koseki Bijou": {
+      "id": "UC9p_lqQ0FEDz327Vgf5JwqA"
+    }
+  },
+  "JP Star Gen 1": {
+    "Hanasaki Miyabi": {
+      "name": "Miyabi Ch. 花咲みやび",
+      "id": "UC6t3-_N8A6ME1JShZHHqOMw"
+    },
+    "Kanade Izuru": {
+      "name": "Izuru Ch. 奏手イヅル",
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA"
+    },
+    "Arurandeisu": {
+      "name": "Aruran Ch. アルランディス",
+      "id": "UCKeAhJvy8zgXWbh9duVjIaQ"
+    },
+    "Rikka": {
+      "name": "Rikka ch.律可 ",
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w"
+    }
+  },
+  "JP Star Gen 2": {
+    "Astel Leda": {
+      "name": "astel ch.アステル",
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg"
+    },
+    "Kishido Temma": {
+      "name": "Temma Ch. 岸堂天真",
+      "id": "UCGNI4MENvnsymYjKiZwv9eg"
+    },
+    "Yukoku Roberu": {
+      "name": "Roberu Ch. 夕刻ロベル",
+      "id": "UCANDOlYTJT7N5jlRC3zfzVA"
+    }
+  },
+  "JP Star Gen 3": {
+    "Kageyama Shien": {
+      "name": "Shien Ch.影山シエン",
+      "id": "UChSvpZYRPh0FvG4SJGSga3g"
+    },
+    "Aragami Oga": {
+      "name": "Oga Ch.荒咬オウガ",
+      "id": "UCwL7dgTxKo8Y4RFIKWaf8gA"
+    }
+  },
+  "JP Uproar": {
+    "Yatogami Fuma": {
+      "name": "Shien Ch.影山シエン",
+      "id": "UCc88OV45ICgHbn3ZqLLb52w"
+    },
+    "Utsugi Uyu": {
+      "name": "Oga Ch.荒咬オウガ",
+      "id": "UCgRqGV1gBf2Esxh0Tz1vxzw"
+    },
+    "Hizaki Gamma": {
+      "id": "UCkT1u65YS49ca_LsFwcTakw"
+    },
+    "Minase Rio": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg"
+    }
+  },
+  "Holostars Tempus": {
+    "Regis Altare": {
+      "id": "UCyxtGMdWlURZ30WSnEjDOQw"
+    },
+    "Axel Syrios": {
+      "name": "Oga Ch.荒咬オウガ",
+      "id": "UC2hx0xVkMoHGWijwr_lA01w"
+    },
+    "Gavis Bettel": {
+      "id": "UCHP4f7G2dWD4qib7BMatGAw"
+    },
+    "Machina X Flayon": {
+      "id": "UC060r4zABV18vcahAWR1n7w"
+    },
+    "Banzoin Hakka": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw"
+    },
+    "Josuiji Shinri": {
+      "id": "UCMqGG8BRAiI1lJfKOpETM_w"
+    }
+  },
+  "Holostars Armis": {
+    "Jurard T Rexford": {
+      "id": "UCTVSOgYuSWmNAt-lnJPkEEw"
+    },
+    "Goldbullet": {
+      "name": "Oga Ch.荒咬オウガ",
+      "id": "UCJv02SHZgav7Mv3V0kBOR8Q"
+    },
+    "Octavio": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA"
+    },
+    "Crimzon Ruze": {
+      "id": "UCajbFh6e_R8QZdHAMbbi4rQ"
+    }
+  }
+}
