@@ -1,7 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { Result, Search } from "../types/Types";
 import { fetchData } from "../utils/fetchData";
-import { EMPTY_SEARCH } from "../miscel/constants";
 import channelInfo from "../miscel/channelInfo.json";
 import { getRandomFromArray } from "../utils/getRandomFromArray";
 import Fuse from "fuse.js";
@@ -65,7 +64,7 @@ const RandomizeButton = ({
         searchValue.year,
         data.token
       );
-      const newItems = [...data.items, ...result.items];
+      const newItems: [] = [...data.items, ...result.items] as [];
       const video = getRandomVideo(newItems);
       if (result.token) {
         setData({ token: result.token, items: newItems });
@@ -73,7 +72,7 @@ const RandomizeButton = ({
       setLoading(false);
       setSearchResult(video);
     } catch (e) {
-      const video = getRandomVideo(data.items);
+      const video = getRandomVideo(data.items as []);
       setLoading(false);
       setSearchResult(video);
     }
